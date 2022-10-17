@@ -18,7 +18,7 @@ pip install nltk==3.6.2
 The oxford dataset used in our paper are available at https://drive.google.com/file/d/1XH3KFufLPawNR5BH02Vpz66XuYDF9Rma/view?usp=sharing. 
 You should download the data, put them into the root directory of this project, and decompress them with the following command:
 ```bash
-tar -xzvf data.tar.gz # replace 'checkpoint_name' with the corresponding checkpoint name.
+tar -xzvf data.tar.gz 
 ```
 In the decompressed 'data' directory , there are three 'txt' files, which are used to compute the readability features. These files are constructed based on part of the [One-Billion-Word](http://www.statmt.org/lm-benchmark/) corpus.
 
