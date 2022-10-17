@@ -15,7 +15,7 @@ pip install inflect==5.2.0
 pip install nltk==3.6.2  
 ****
 ## Dataset
-The oxford dataset used in our paper are available at https://drive.google.com/file/d/1XH3KFufLPawNR5BH02Vpz66XuYDF9Rma/view?usp=sharing: 
+The oxford dataset used in our paper are available at https://drive.google.com/file/d/1XH3KFufLPawNR5BH02Vpz66XuYDF9Rma/view?usp=sharing. 
 You should download the data, put them into the root directory of this project, and decompress them with the following command:
 ```bash
 tar -xzvf data.tar.gz # replace 'checkpoint_name' with the corresponding checkpoint name.
@@ -29,7 +29,7 @@ Ploysemous version: the training/validation/test only contains words with multip
 ## Try our model with the well-trained generation model, POS and definition evalution model checkpoints: 
 | Model           |  Download link
 |----------------------|--------|
-| Generation Model| [\[link\]](https://drive.google.com/file/d/1JPPhqdapW_p2AQ9jyx0MuYeD31gHuQAD/view?usp=sharing)  | 
+| Generation Model| [\[link\]](https://drive.google.com/file/d/1w0gmb8Wdyi3XhODNJUnuyY3dVD7YPDjl/view?usp=sharing)  | 
 | POS Evaluation Model| [\[link\]](https://drive.google.com/file/d/1tbkF2yAEFJ-wE6iG2nd_iWxzCXfH2boU/view?usp=sharing)  | 
 | Definition Evalution Model| [\[link\]](https://drive.google.com/file/d/1A6BU_hc3O5ppy89im4g3Z9hXVUkgFqnw/view?usp=sharing)  | 
 
