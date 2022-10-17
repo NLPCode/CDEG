@@ -8,11 +8,11 @@ Example sentences for targeted words in a dictionary play an important role to h
 ****
 ## Requirements
 python 3.6  
-pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html 
-pip install transformers==4.3.3 
-pip install lemminflect==0.2.1 
-pip install inflect==5.2.0 
-pip install nltk==3.6.2 
+pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html  
+pip install transformers==4.3.3  
+pip install lemminflect==0.2.1  
+pip install inflect==5.2.0  
+pip install nltk==3.6.2  
 ****
 ## Dataset
 The oxford dataset used in our paper are available at http://www.statmt.org/lm-benchmark/: 
