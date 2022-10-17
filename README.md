@@ -38,6 +38,7 @@ Ploysemous version: the training/validation/test only contains words with multip
 If you want to quickly try our model, you should download these checkpoints, put them into the 'checkpoints' directory, and decompress them with the following command:
 
 ```bash
+mkdir checkpoints # if not exist
 tar -xzvf checkpoint_name.tar.gz # replace 'checkpoint_name' with the corresponding checkpoint name.
 ```
 
