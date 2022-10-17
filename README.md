@@ -23,7 +23,9 @@ tar -xzvf data.tar.gz # replace 'checkpoint_name' with the corresponding checkpo
 In the decompressed 'data' directory , there are three 'txt' files, which are used to compute the readability features. These files are constructed based on part of the [One-Billion-Word](http://www.statmt.org/lm-benchmark/) corpus.
 
 In the 'data/oxford' directory, there are of two versions of data. 
+
 Full version: the training/validation/test contains words with only one definition and words with multiple definitions;
+
 Ploysemous version: the training/validation/test only contains words with multiple definitions. 
 ****
 ## Try our model with the well-trained generation model, POS and definition evalution model checkpoints: 
