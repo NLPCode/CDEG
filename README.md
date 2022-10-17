@@ -73,8 +73,8 @@ sh train.sh
 
 ## <span id="generate"> Generate example sentences for the given words and definitions </span>
 Generate dictionary examples with specified length and lexically complexity. 
-In the inference script, we set the length to 14 and lexicially to 25. You can freely change both values and test the effects of these two features, but you need to pay attention to the range of these two features (please refer to our paper for more details). 
-In the inference script, we generate dictionary examples by running greed and beam search decoding strategies on the generation model and generated results are stored in the 'outputs' directory. 
+In the inference script, we set the length to 14 and lexicial complexity to 25. You can freely change both values and test the effects of these two features, but you need to pay attention to the range of these two features (please refer to our paper for more details). 
+In the inference script, we generate dictionary examples by running greed and beam search decoding strategies on the generation model and store the generated results in the 'outputs' directory. 
 ```bash
 cd models
 sh infer.sh 
