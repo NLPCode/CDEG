@@ -32,8 +32,8 @@ Ploysemous version: the training/validation/test only contains words with multip
 | Model           |  Download link
 |----------------------|--------|
 | Generation Model| [\[link\]](https://drive.google.com/file/d/1w0gmb8Wdyi3XhODNJUnuyY3dVD7YPDjl/view?usp=sharing)  | 
-| POS Evaluation Model| [\[link\]](https://drive.google.com/file/d/1tbkF2yAEFJ-wE6iG2nd_iWxzCXfH2boU/view?usp=sharing)  | 
-| Definition Evalution Model| [\[link\]](https://drive.google.com/file/d/1A6BU_hc3O5ppy89im4g3Z9hXVUkgFqnw/view?usp=sharing)  | 
+| POS Evaluation Model| [\[link\]](https://drive.google.com/file/d/1eq-P1L4NEld63clRAAuchnK8oa-dY1WD/view?usp=sharing)  | 
+| Definition Evalution Model| [\[link\]](https://drive.google.com/file/d/1uSmmo8S2WAMXbMv7Vf7GcPgFqrI2I6Ml/view?usp=sharing)  | 
 
 If you want to quickly try our model, you should download these checkpoints, put them into the 'checkpoints' directory, and decompress them with the following command:
 
