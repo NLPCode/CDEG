@@ -45,7 +45,9 @@ tar -xzvf checkpoint_name.tar.gz # replace 'checkpoint_name' with the correspond
 Then, you need to generate the data used for inference:
 ```bash
 cd models
-python train.py --gpu 6 --batch_size 40 --test_batch_size 80 --use_word 0 --use_pos 1 --use_example_len 1 --use_lexical_complexity 1 --train 1 --epochs 0
+python train.py --gpu 6 --batch_size 40 --test_batch_size 80 \ 
+                --use_word 0 --use_pos 1 --use_example_len 1 \ 
+                --use_lexical_complexity 1 --train 1 --epochs 0
 ```
 Finally, you can directly go to [Generate example sentences for the given words and definitions](#generate).
 
