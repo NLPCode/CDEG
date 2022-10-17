@@ -98,7 +98,7 @@ python self-bleu_high-frequency_lexical-complexity.py
 ```
 
 ## Citation
-If you want to use this code in your research, you can cite our [paper](https://arxiv.org/abs/2109.12487):
+If you want to use this code in your research, you can cite our [paper](https://aclanthology.org/2022.acl-long.46/):
 ```bash
 
 @inproceedings{he-yiu-2022-controllable,
