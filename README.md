@@ -15,7 +15,7 @@ pip install inflect==5.2.0
 pip install nltk==3.6.2  
 ****
 ## Dataset
-The oxford dataset used in our paper are available at http://www.statmt.org/lm-benchmark/: 
+The oxford dataset used in our paper are available at https://drive.google.com/file/d/1XH3KFufLPawNR5BH02Vpz66XuYDF9Rma/view?usp=sharing: 
 You should download the data, put them into the root directory of this project, and decompress them with the following command:
 ```bash
 tar -xzvf data.tar.gz # replace 'checkpoint_name' with the corresponding checkpoint name.
