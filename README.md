@@ -93,7 +93,7 @@ python extract_polysemous_outputs.py
 * Step 2: Evaluate results of the polysemous test set.
 ```bash
 cd evaluations
-python extract_polysemous_outputs.py
+python automatic_evaluation.py
 ```
 If you want to compute Self-BLEU, then you can run the following script:
 
